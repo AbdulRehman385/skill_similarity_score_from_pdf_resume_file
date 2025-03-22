@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1_95-1JdKZLALZTaoy4D4R0yKjt2XrHZO
 """
 
-!pip install PyPDF2 streamlit
+#!pip install PyPDF2 streamlit
 
 # import libraries
 import PyPDF2
